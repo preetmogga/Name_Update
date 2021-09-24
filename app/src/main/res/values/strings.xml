@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="MyImage">image</string>
+    <string name="enter_the_name">Enter The Name</string>
+    <string name="welcome">Welcome</string>
+    <string name="update">Update</string>
+    <array name="color">
+        <item>"Choose Color"</item>
+        <item>"RED"</item>
+        <item>"BLACK"</item>
+        <item>"BLUE"</item>
+        <item>"GREEN"</item>
+</array>
+    <array name="size">
+        <item>"Choose Size"</item>
+        <item>"20"</item>
+        <item>"25"</item>
+        <item>"30"</item>
+        <item>"35"</item>
+    </array>
+</resources>
